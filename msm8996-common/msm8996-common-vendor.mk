@@ -701,4 +701,5 @@ PRODUCT_PACKAGES += \
     ims \
     imssettings \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    HotwordEnrollmentOKGoogleWCD9340
