@@ -718,4 +718,5 @@ PRODUCT_PACKAGES += \
     TimeService \
     ims \
     imssettings \
-    qcrilhook
+    qcrilhook \
+    HotwordEnrollmentOKGoogleWCD9340
