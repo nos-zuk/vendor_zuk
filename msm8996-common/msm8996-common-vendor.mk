@@ -100,7 +100,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/lib/vendor.qti.gnss@1.0.so:system/lib/vendor.qti.gnss@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib/vendor.qti.hardware.iop@1.0.so:system/lib/vendor.qti.hardware.iop@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib/vendor.qti.hardware.perf@1.0.so:system/lib/vendor.qti.hardware.perf@1.0.so \
-    vendor/zuk/msm8996-common/proprietary/lib/vendor.qti.hardware.qdutils_disp@1.0.so:system/lib/vendor.qti.hardware.qdutils_disp@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib/vendor.qti.imsrtpservice@1.0.so:system/lib/vendor.qti.imsrtpservice@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib64/com.qualcomm.qti.imscmservice@1.0.so:system/lib64/com.qualcomm.qti.imscmservice@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
@@ -115,7 +114,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/lib64/vendor.qti.gnss@1.0.so:system/lib64/vendor.qti.gnss@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib64/vendor.qti.hardware.iop@1.0.so:system/lib64/vendor.qti.hardware.iop@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib64/vendor.qti.hardware.perf@1.0.so:system/lib64/vendor.qti.hardware.perf@1.0.so \
-    vendor/zuk/msm8996-common/proprietary/lib64/vendor.qti.hardware.qdutils_disp@1.0.so:system/lib64/vendor.qti.hardware.qdutils_disp@1.0.so \
     vendor/zuk/msm8996-common/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:system/lib64/vendor.qti.imsrtpservice@1.0.so \
     vendor/zuk/msm8996-common/proprietary/usr/idc/usf_tsc.idc:system/usr/idc/usf_tsc.idc \
     vendor/zuk/msm8996-common/proprietary/usr/idc/usf_tsc_ext.idc:system/usr/idc/usf_tsc_ext.idc \
@@ -126,7 +124,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/vendor/bin/hw/vendor.qti.gnss@1.0-service:system/vendor/bin/hw/vendor.qti.gnss@1.0-service \
     vendor/zuk/msm8996-common/proprietary/vendor/bin/hw/vendor.qti.hardware.iop@1.0-service:system/vendor/bin/hw/vendor.qti.hardware.iop@1.0-service \
     vendor/zuk/msm8996-common/proprietary/vendor/bin/hw/vendor.qti.hardware.perf@1.0-service:system/vendor/bin/hw/vendor.qti.hardware.perf@1.0-service \
-    vendor/zuk/msm8996-common/proprietary/vendor/bin/hw/vendor.qti.hardware.qdutils_disp@1.0-service-qti:system/vendor/bin/hw/vendor.qti.hardware.qdutils_disp@1.0-service-qti \
     vendor/zuk/msm8996-common/proprietary/vendor/bin/ims_rtp_daemon:system/vendor/bin/ims_rtp_daemon \
     vendor/zuk/msm8996-common/proprietary/vendor/bin/imsdatadaemon:system/vendor/bin/imsdatadaemon \
     vendor/zuk/msm8996-common/proprietary/vendor/bin/imsqmidaemon:system/vendor/bin/imsqmidaemon \
@@ -472,7 +469,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.gnss@1.0_vendor.so:system/vendor/lib/vendor.qti.gnss@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.hardware.iop@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.iop@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.hardware.perf@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.perf@1.0_vendor.so \
-    vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.hardware.qdutils_disp@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.qdutils_disp@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.hardware.radio.am@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.radio.am@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.hardware.radio.ims@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.radio.ims@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib/vendor.qti.hardware.radio.lpa@1.0_vendor.so:system/vendor/lib/vendor.qti.hardware.radio.lpa@1.0_vendor.so \
@@ -656,7 +652,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/libtinyxml2_1.so:system/vendor/lib64/libtinyxml2_1.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/libtzdrmgenprov.so:system/vendor/lib64/libtzdrmgenprov.so \
-    vendor/zuk/msm8996-common/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/libulp2.so:system/vendor/lib64/libulp2.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/libvpphvx.so:system/vendor/lib64/libvpphvx.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/libvpplibrary.so:system/vendor/lib64/libvpplibrary.so \
@@ -674,7 +669,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.gnss@1.0_vendor.so:system/vendor/lib64/vendor.qti.gnss@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.hardware.iop@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.iop@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.hardware.perf@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.perf@1.0_vendor.so \
-    vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.am@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.am@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0_vendor.so \
     vendor/zuk/msm8996-common/proprietary/vendor/lib64/vendor.qti.hardware.radio.ims@1.0_vendor.so:system/vendor/lib64/vendor.qti.hardware.radio.ims@1.0_vendor.so \
