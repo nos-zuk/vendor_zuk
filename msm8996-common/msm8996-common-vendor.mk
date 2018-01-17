@@ -31,6 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/msm8996-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/zuk/msm8996-common/proprietary/bin/pm-proxy:system/bin/pm-proxy \
     vendor/zuk/msm8996-common/proprietary/bin/pm-service:system/bin/pm-service \
+    vendor/zuk/msm8996-common/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/zuk/msm8996-common/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/zuk/msm8996-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zuk/msm8996-common/proprietary/bin/qseecomd:system/bin/qseecomd \
